@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animation 3</title>
+
+    <style>
+      @keyframes spaceship-ani {
+        100% {
+          transform: translateX(-2550px);
+        }
+      }
+
+      .spaceship {
+        width: 150px;
+        height: 150px;
+
+        overflow: hidden;
+
+        img {
+          width: auto;
+          height: 150px;
+          animation: spaceship-ani 1s infinite steps(17);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="spaceship">
+      <img src="./sprite_spaceship.png" />
+    </div>
+  </body>
+</html>

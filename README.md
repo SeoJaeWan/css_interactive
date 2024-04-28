@@ -10,6 +10,12 @@
 
 ## Animation1
 
+[Animation1](https://bum-developer.tistory.com/entry/Animation)
+
 ## Animation2
 
+[Animation2](https://bum-developer.tistory.com/entry/Animation)
+
 ## Animation3
+
+[Animation2](https://bum-developer.tistory.com/entry/Animation-frame-by-frame)
