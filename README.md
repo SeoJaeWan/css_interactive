@@ -18,4 +18,4 @@
 
 ## Animation3
 
-[Animation2](https://bum-developer.tistory.com/entry/Animation-frame-by-frame)
+[Animation3](https://bum-developer.tistory.com/entry/Animation-frame-by-frame)
