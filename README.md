@@ -51,3 +51,7 @@
 ## Event2
 
 [Event2](https://bum-developer.tistory.com/entry/Transition-Animation-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
+
+## RequestAnimationFrame
+
+[RequestAnimationFrame](https://bum-developer.tistory.com/entry/RequestAnimationFrame)
