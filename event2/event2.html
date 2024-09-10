@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event</title>
+
+    <style>
+      @keyframes ball-ani {
+        from {
+          transform: translate(0, 0);
+        }
+        to {
+          transform: translate(200px, 200px);
+        }
+      }
+
+      .ball {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        width: 30px;
+        height: 30px;
+
+        border-radius: 50%;
+        background: red;
+
+        animation: ball-ani 1s 3;
+      }
+
+      .end {
+        background: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="ball"></div>
+    <script src="./event2.js"></script>
+  </body>
+</html>
